@@ -1,0 +1,11 @@
+{
+  "test_scenario": "7_DAYS_EXECUTIVE_SITUATION_CHECK",
+  "expected_compliance": {
+    "public_data_only": true,
+    "no_automated_criminalization": true,
+    "thermal_as_anomaly_only": true,
+    "correlations_non_causal": true
+  },
+  "expected_minimum_sources": 4,
+  "expected_top_kecamatans": ["Ambalau", "Serawai"]
+}

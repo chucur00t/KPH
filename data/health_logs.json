@@ -1,0 +1,11 @@
+[
+  {
+    "id": "LOG-1790769794142-udyf7",
+    "source_id": "SRC-OPEN-METEO-SINTANG",
+    "checked_at": "2026-09-30T12:03:14.142Z",
+    "status": "ACTIVE",
+    "http_status_code": 200,
+    "latency_ms": 1313,
+    "verified": true
+  }
+]

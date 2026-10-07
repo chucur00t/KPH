@@ -1,0 +1,182 @@
+[
+  {
+    "eventId": "EVT-NEWS-2026-001",
+    "recordId": "REC-NEWS-2026-001",
+    "sourceCount": 1,
+    "sourceRecords": ["REC-NEWS-2026-001", "REC-NEWS-2026-002"],
+    "eventType": "ENFORCEMENT",
+    "activityType": "TIMBER_SEIZURE",
+    "title": "Penyitaan 42 m3 Kayu Olahan Tanpa Dokumen Sah di Perairan Hulu Sungai Melawi Ambalau",
+    "description": "Operasi pengamanan gabungan Balai Gakkum KLHK Wilayah Kalimantan berhasil menyita rakitan kayu olahan jenis meranti tak bertuan yang dihanyutkan di aliran Sungai Melawi perbatasan Ambalau-Serawai.",
+    "eventDate": "2026-09-24T10:00:00Z",
+    "publicationDate": "2026-09-26T10:00:00Z",
+    "locationName": "Kecamatan Ambalau & Serawai (Aliran Sungai Melawi)",
+    "locationPrecision": "DISTRICT",
+    "locationConfidence": "HIGH",
+    "centroid": [112.565, -0.124],
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.565, -0.124]
+    },
+    "entities": [
+      { "type": "GOVERNMENT_AGENCY", "name": "Balai Gakkum KLHK Wilayah Kalimantan", "role": "ENFORCEMENT_AGENCY" },
+      { "type": "RIVER", "name": "Sungai Melawi", "role": "AFFECTED_AREA" },
+      { "type": "FOREST_AREA", "name": "Hutan Lindung Hulu Melawi", "role": "AFFECTED_AREA" }
+    ],
+    "legalStatus": "ENFORCEMENT_REPORTED",
+    "legalStatusReason": "Tindakan penegakan hukum resmi berupa penyitaan barang bukti tanpa penetapan tersangka di tempat (kayu tak bertuan). Kasus dalam tahap penyelidikan PPNS LHK.",
+    "claimType": "ENFORCEMENT",
+    "confidence": "HIGH",
+    "monitoringPriority": "HIGH",
+    "status": "CONFIRMED_BY_PUBLIC_AUTHORITY",
+    "satelliteCorrelated": true,
+    "satelliteEventId": "LCE-2026-02-DXSC",
+    "fireCorrelated": true,
+    "fireEventId": "FE-STG-2026-003",
+    "gisContext": {
+      "kphUnit": "KPH Sintang Timur",
+      "kecamatan": "Ambalau",
+      "forestFunction": "HL",
+      "peatland": false,
+      "distanceToRiverM": 110,
+      "distanceToRoadM": 1420
+    },
+    "hasSourceConflict": false,
+    "reportStatus": "ORIGINAL_REPORT",
+    "createdAt": "2026-09-30T06:55:00Z",
+    "updatedAt": "2026-09-30T06:55:00Z"
+  },
+  {
+    "eventId": "EVT-NEWS-2026-002",
+    "recordId": "REC-NEWS-2026-003",
+    "sourceCount": 1,
+    "sourceRecords": ["REC-NEWS-2026-003"],
+    "eventType": "ENFORCEMENT",
+    "activityType": "MINING_ENFORCEMENT",
+    "title": "Operasi Penertiban Tambang Emas Tanpa Izin (PETI) di Bantaran Sungai Kayan",
+    "description": "Satreskrim Polres Sintang melaksanakan penertiban aktivitas PETI dan menyita 3 set mesin penyedot pasir emas di Desa Nanga Mau guna mencegah pendangkalan dan sedimentasi perairan.",
+    "eventDate": "2026-09-19T08:30:00Z",
+    "publicationDate": "2026-09-19T08:30:00Z",
+    "locationName": "Desa Nanga Mau, Kecamatan Kayan Hilir",
+    "locationPrecision": "VILLAGE",
+    "locationConfidence": "EXACT",
+    "centroid": [112.185, -0.285],
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.185, -0.285]
+    },
+    "entities": [
+      { "type": "POLICE_UNIT", "name": "Satreskrim Polres Sintang", "role": "ENFORCEMENT_AGENCY" },
+      { "type": "RIVER", "name": "Sungai Kayan", "role": "AFFECTED_AREA" },
+      { "type": "COMMUNITY", "name": "Masyarakat Desa Nanga Mau", "role": "WITNESS" }
+    ],
+    "legalStatus": "ENFORCEMENT_REPORTED",
+    "legalStatusReason": "Tindakan penertiban barang bukti peralatan mesin ilegal berdasarkan LP/A/142/IX/2026/SPKT.",
+    "claimType": "ENFORCEMENT",
+    "confidence": "HIGH",
+    "monitoringPriority": "HIGH",
+    "status": "CONFIRMED_BY_PUBLIC_AUTHORITY",
+    "satelliteCorrelated": true,
+    "satelliteEventId": "IND-STG-2026-004",
+    "fireCorrelated": false,
+    "gisContext": {
+      "kphUnit": "KPH Sintang Timur",
+      "kecamatan": "Kayan Hilir",
+      "forestFunction": "HP",
+      "peatland": false,
+      "distanceToRiverM": 0,
+      "distanceToRoadM": 310
+    },
+    "hasSourceConflict": false,
+    "reportStatus": "ORIGINAL_REPORT",
+    "createdAt": "2026-09-30T06:55:00Z",
+    "updatedAt": "2026-09-30T06:55:00Z"
+  },
+  {
+    "eventId": "EVT-NEWS-2026-003",
+    "recordId": "REC-NEWS-2026-004",
+    "sourceCount": 1,
+    "sourceRecords": ["REC-NEWS-2026-004"],
+    "eventType": "FIRE",
+    "activityType": "PEAT_FIRE",
+    "title": "Imbauan Kewaspadaan Titik Panas di Zona Kubah Gambut Ketungau Tengah",
+    "description": "BPBD Kabupaten Sintang menginstruksikan peningkatan patroli pencegahan karhutla di atas ekosistem gambut KHG Belitang dan menegaskan larangan pembakaran lahan.",
+    "eventDate": "2026-09-28T09:15:00Z",
+    "publicationDate": "2026-09-28T09:15:00Z",
+    "locationName": "Kecamatan Ketungau Tengah (KHG Belitang)",
+    "locationPrecision": "DISTRICT",
+    "locationConfidence": "HIGH",
+    "centroid": [111.897, 0.032],
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.897, 0.032]
+    },
+    "entities": [
+      { "type": "GOVERNMENT_AGENCY", "name": "BPBD Kabupaten Sintang", "role": "ENFORCEMENT_AGENCY" },
+      { "type": "FOREST_AREA", "name": "KHG Sungai Belitang - Mengkurai", "role": "AFFECTED_AREA" }
+    ],
+    "legalStatus": "REPORTED",
+    "legalStatusReason": "Pemberitahuan resmi pemerintah daerah (Perbup No. 42/2020) mengenai kewaspadaan bencana kebakaran tanpa adanya penetapan pelanggaran pidana saat ini.",
+    "claimType": "OFFICIAL_STATEMENT",
+    "confidence": "HIGH",
+    "monitoringPriority": "MEDIUM",
+    "status": "EXTRACTED",
+    "satelliteCorrelated": true,
+    "satelliteEventId": "IND-STG-2026-003",
+    "fireCorrelated": true,
+    "fireEventId": "FE-STG-2026-004",
+    "gisContext": {
+      "kphUnit": "KPH Sintang Timur",
+      "kecamatan": "Ketungau Tengah",
+      "forestFunction": "APL",
+      "peatland": true,
+      "distanceToRiverM": 310,
+      "distanceToRoadM": 820
+    },
+    "hasSourceConflict": false,
+    "reportStatus": "ORIGINAL_REPORT",
+    "createdAt": "2026-09-30T06:55:00Z",
+    "updatedAt": "2026-09-30T06:55:00Z"
+  },
+  {
+    "eventId": "EVT-NEWS-2026-004",
+    "recordId": "REC-NEWS-2026-005",
+    "sourceCount": 1,
+    "sourceRecords": ["REC-NEWS-2026-005"],
+    "eventType": "COURT_CASE",
+    "activityType": "COURT_CASE",
+    "title": "Sidang Pembuktian Perkara Pidana Khusus Kehutanan No. 118/Pid.Sus/2026 di PN Sintang",
+    "description": "Pemeriksaan saksi ahli dan penyidik PPNS LHK terkait tindak pidana pengangkutan hasil hutan kayu tanpa disertai dokumen SKSHH sah di Kabupaten Sintang.",
+    "eventDate": "2026-09-22T04:00:00Z",
+    "publicationDate": "2026-09-22T04:00:00Z",
+    "locationName": "Pengadilan Negeri Sintang, Kabupaten Sintang",
+    "locationPrecision": "REGENCY",
+    "locationConfidence": "EXACT",
+    "centroid": [111.498, 0.076],
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.498, 0.076]
+    },
+    "entities": [
+      { "type": "GOVERNMENT_AGENCY", "name": "Pengadilan Negeri Sintang", "role": "ENFORCEMENT_AGENCY" },
+      { "type": "GOVERNMENT_AGENCY", "name": "Kejaksaan Negeri Sintang", "role": "ENFORCEMENT_AGENCY" }
+    ],
+    "legalStatus": "COURT_CASE",
+    "legalStatusReason": "Perkara sedang disidangkan di pengadilan negeri terbuka; asas praduga tak bersalah (presumption of innocence) berlaku penuh sampai putusan inkracht dijatuhkan.",
+    "claimType": "LEGAL_FINDING",
+    "confidence": "HIGH",
+    "monitoringPriority": "HIGH",
+    "status": "CONFIRMED_BY_PUBLIC_AUTHORITY",
+    "satelliteCorrelated": false,
+    "fireCorrelated": false,
+    "gisContext": {
+      "kphUnit": "KPH Sintang Timur",
+      "kecamatan": "Sintang",
+      "forestFunction": "APL"
+    },
+    "hasSourceConflict": false,
+    "reportStatus": "ORIGINAL_REPORT",
+    "createdAt": "2026-09-30T06:55:00Z",
+    "updatedAt": "2026-09-30T06:55:00Z"
+  }
+]

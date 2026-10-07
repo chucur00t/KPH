@@ -1,0 +1,525 @@
+[
+  {
+    "event_id": "LCE-2026-01-A2A2",
+    "detection_id": "DET-MUO2QNO9-QQ99",
+    "baseline_scene_id": "S2A_MSIL2A_20260908T025551_N0500_R032_T49MCV_20260908T062002",
+    "comparison_scene_id": "S2B_MSIL2A_20260928T025549_N0500_R032_T49MCV_20260928T054512",
+    "event_type": "CANOPY_LOSS",
+    "severity": "HIGH",
+    "status": "DETECTED",
+    "area_ha": 20.34,
+    "mean_delta_index": -0.38,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.5885,
+            -0.628
+          ],
+          [
+            112.58747,
+            -0.62565
+          ],
+          [
+            112.585,
+            -0.62467
+          ],
+          [
+            112.58253,
+            -0.62565
+          ],
+          [
+            112.5815,
+            -0.628
+          ],
+          [
+            112.58253,
+            -0.63035
+          ],
+          [
+            112.585,
+            -0.63133
+          ],
+          [
+            112.58747,
+            -0.63035
+          ],
+          [
+            112.5885,
+            -0.628
+          ]
+        ]
+      ]
+    },
+    "centroid_latitude": -0.628,
+    "centroid_longitude": 112.585,
+    "aoi_id": "AOI-KPH-SINTANG-TIMUR",
+    "kecamatan": "Serawai",
+    "desa": "Nanga Serawai",
+    "forest_zone": "Hutan Produksi Terbatas (HPT) Serawai - Kayan Hulu",
+    "in_kph": true,
+    "near_river": false,
+    "river_distance_m": 30188,
+    "near_road": false,
+    "road_distance_m": 74733,
+    "in_peatland": false,
+    "confidence_score": 92,
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "source_name": "Copernicus Data Space Ecosystem - Sentinel-2 MSI Level-2A",
+    "source_url": "https://dataspace.copernicus.eu/browser/?lat=-0.45&lng=111.95&zoom=10",
+    "acquisition_date": "2026-09-28T02:55:49.000Z",
+    "processing_date": "2026-09-30T12:21:11.386Z",
+    "processing_method": "Bi-temporal Difference (dNDVI) with PostGIS Geodesic Area",
+    "processing_version": "v2.4.0-COPERNICUS-L2A"
+  },
+  {
+    "event_id": "LCE-2026-02-DXSC",
+    "detection_id": "DET-MUO2QNO9-QQ99",
+    "baseline_scene_id": "S2A_MSIL2A_20260908T025551_N0500_R032_T49MCV_20260908T062002",
+    "comparison_scene_id": "S2B_MSIL2A_20260928T025549_N0500_R032_T49MCV_20260928T054512",
+    "event_type": "DEVEGETATION",
+    "severity": "HIGH",
+    "status": "DETECTED",
+    "area_ha": 13.02,
+    "mean_delta_index": -0.34,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.5678,
+            -0.125
+          ],
+          [
+            112.56698,
+            -0.12312
+          ],
+          [
+            112.565,
+            -0.12234
+          ],
+          [
+            112.56302,
+            -0.12312
+          ],
+          [
+            112.5622,
+            -0.125
+          ],
+          [
+            112.56302,
+            -0.12688
+          ],
+          [
+            112.565,
+            -0.12766
+          ],
+          [
+            112.56698,
+            -0.12688
+          ],
+          [
+            112.5678,
+            -0.125
+          ]
+        ]
+      ]
+    },
+    "centroid_latitude": -0.125,
+    "centroid_longitude": 112.565,
+    "aoi_id": "AOI-KPH-SINTANG-TIMUR",
+    "kecamatan": "Ambalau",
+    "desa": "Nanga Ambalau",
+    "forest_zone": "Areal Penggunaan Lain / Enclave KPH",
+    "in_kph": true,
+    "near_river": false,
+    "river_distance_m": 59365,
+    "near_road": false,
+    "in_peatland": false,
+    "confidence_score": 92,
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "source_name": "Copernicus Data Space Ecosystem - Sentinel-2 MSI Level-2A",
+    "source_url": "https://dataspace.copernicus.eu/browser/?lat=-0.45&lng=111.95&zoom=10",
+    "acquisition_date": "2026-09-28T02:55:49.000Z",
+    "processing_date": "2026-09-30T12:21:11.386Z",
+    "processing_method": "Bi-temporal Difference (dNDVI) with PostGIS Geodesic Area",
+    "processing_version": "v2.4.0-COPERNICUS-L2A"
+  },
+  {
+    "event_id": "LCE-2026-03-V1HF",
+    "detection_id": "DET-MUO2QNO9-QQ99",
+    "baseline_scene_id": "S2A_MSIL2A_20260908T025551_N0500_R032_T49MCV_20260908T062002",
+    "comparison_scene_id": "S2B_MSIL2A_20260928T025549_N0500_R032_T49MCV_20260928T054512",
+    "event_type": "CLEARING",
+    "severity": "MEDIUM",
+    "status": "DETECTED",
+    "area_ha": 8.06,
+    "mean_delta_index": -0.22,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.1872,
+            -0.415
+          ],
+          [
+            112.18656,
+            -0.41352
+          ],
+          [
+            112.185,
+            -0.41291
+          ],
+          [
+            112.18344,
+            -0.41352
+          ],
+          [
+            112.1828,
+            -0.415
+          ],
+          [
+            112.18344,
+            -0.41648
+          ],
+          [
+            112.185,
+            -0.41709
+          ],
+          [
+            112.18656,
+            -0.41648
+          ],
+          [
+            112.1872,
+            -0.415
+          ]
+        ]
+      ]
+    },
+    "centroid_latitude": -0.415,
+    "centroid_longitude": 112.185,
+    "aoi_id": "AOI-KPH-SINTANG-TIMUR",
+    "kecamatan": "Serawai",
+    "desa": "Nanga Tebidah",
+    "forest_zone": "Hutan Produksi Terbatas (HPT) Serawai - Kayan Hulu",
+    "in_kph": true,
+    "near_river": false,
+    "river_distance_m": 4234,
+    "near_road": false,
+    "road_distance_m": 24576,
+    "in_peatland": false,
+    "confidence_score": 84,
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "source_name": "Copernicus Data Space Ecosystem - Sentinel-2 MSI Level-2A",
+    "source_url": "https://dataspace.copernicus.eu/browser/?lat=-0.45&lng=111.95&zoom=10",
+    "acquisition_date": "2026-09-28T02:55:49.000Z",
+    "processing_date": "2026-09-30T12:21:11.387Z",
+    "processing_method": "Bi-temporal Difference (dNDVI) with PostGIS Geodesic Area",
+    "processing_version": "v2.4.0-COPERNICUS-L2A"
+  },
+  {
+    "event_id": "LCE-2026-04-HXCC",
+    "detection_id": "DET-MUO2QNO9-QQ99",
+    "baseline_scene_id": "S2A_MSIL2A_20260908T025551_N0500_R032_T49MCV_20260908T062002",
+    "comparison_scene_id": "S2B_MSIL2A_20260928T025549_N0500_R032_T49MCV_20260928T054512",
+    "event_type": "FOREST_DISTURBANCE",
+    "severity": "LOW",
+    "status": "DETECTED",
+    "area_ha": 5.38,
+    "mean_delta_index": -0.18,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.3868,
+            -0.562
+          ],
+          [
+            112.38627,
+            -0.56079
+          ],
+          [
+            112.385,
+            -0.56029
+          ],
+          [
+            112.38373,
+            -0.56079
+          ],
+          [
+            112.3832,
+            -0.562
+          ],
+          [
+            112.38373,
+            -0.56321
+          ],
+          [
+            112.385,
+            -0.56371
+          ],
+          [
+            112.38627,
+            -0.56321
+          ],
+          [
+            112.3868,
+            -0.562
+          ]
+        ]
+      ]
+    },
+    "centroid_latitude": -0.562,
+    "centroid_longitude": 112.385,
+    "aoi_id": "AOI-KPH-SINTANG-TIMUR",
+    "kecamatan": "Serawai",
+    "desa": "Nanga Menukung",
+    "forest_zone": "Hutan Produksi Terbatas (HPT) Serawai - Kayan Hulu",
+    "in_kph": true,
+    "near_river": false,
+    "river_distance_m": 12466,
+    "near_road": false,
+    "road_distance_m": 52172,
+    "in_peatland": false,
+    "confidence_score": 84,
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "source_name": "Copernicus Data Space Ecosystem - Sentinel-2 MSI Level-2A",
+    "source_url": "https://dataspace.copernicus.eu/browser/?lat=-0.45&lng=111.95&zoom=10",
+    "acquisition_date": "2026-09-28T02:55:49.000Z",
+    "processing_date": "2026-09-30T12:21:11.387Z",
+    "processing_method": "Bi-temporal Difference (dNDVI) with PostGIS Geodesic Area",
+    "processing_version": "v2.4.0-COPERNICUS-L2A"
+  },
+  {
+    "event_id": "LCE-2026-0928-ST01",
+    "baseline_scene_id": "S2A_MSIL2A_20260908T025551_N0500_R032_T49MCV_20260908T062002",
+    "comparison_scene_id": "S2B_MSIL2A_20260928T025549_N0500_R032_T49MCV_20260928T054512",
+    "event_type": "CANOPY_LOSS",
+    "severity": "HIGH",
+    "status": "DETECTED",
+    "area_ha": 8.4,
+    "mean_delta_index": -0.38,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.582,
+            -0.626
+          ],
+          [
+            112.587,
+            -0.625
+          ],
+          [
+            112.589,
+            -0.629
+          ],
+          [
+            112.584,
+            -0.631
+          ],
+          [
+            112.582,
+            -0.626
+          ]
+        ]
+      ]
+    },
+    "centroid_latitude": -0.628,
+    "centroid_longitude": 112.585,
+    "aoi_id": "AOI-KPH-SINTANG-TIMUR",
+    "kecamatan": "Serawai",
+    "desa": "Nanga Serawai",
+    "forest_zone": "Hutan Lindung (HL)",
+    "in_kph": true,
+    "near_river": true,
+    "river_distance_m": 85,
+    "near_road": false,
+    "road_distance_m": 640,
+    "in_peatland": false,
+    "confidence_score": 92,
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "source_name": "Copernicus Data Space Ecosystem - Sentinel-2 MSI Level-2A",
+    "source_url": "https://dataspace.copernicus.eu/browser/?lat=-0.628&lng=112.585&zoom=14",
+    "acquisition_date": "2026-09-28T02:55:49.000Z",
+    "processing_date": "2026-09-28T07:15:00.000Z",
+    "processing_method": "Bi-temporal Difference (dNDVI) with Geodesic PostGIS Clustering",
+    "processing_version": "v2.4.0-COPERNICUS-L2A"
+  },
+  {
+    "event_id": "LCE-2026-0923-ST02",
+    "baseline_scene_id": "S2B_MSIL2A_20260819T025549_N0500_R032_T49MCV_20260819T054000",
+    "comparison_scene_id": "S2A_MSIL2A_20260923T025551_N0500_R032_T49MCV_20260923T061245",
+    "event_type": "DEVEGETATION",
+    "severity": "HIGH",
+    "status": "UNDER_REVIEW",
+    "area_ha": 14.2,
+    "mean_delta_index": -0.42,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.822,
+            -0.742
+          ],
+          [
+            112.828,
+            -0.741
+          ],
+          [
+            112.831,
+            -0.746
+          ],
+          [
+            112.824,
+            -0.748
+          ],
+          [
+            112.822,
+            -0.742
+          ]
+        ]
+      ]
+    },
+    "centroid_latitude": -0.745,
+    "centroid_longitude": 112.825,
+    "aoi_id": "AOI-KPH-SINTANG-TIMUR",
+    "kecamatan": "Ambalau",
+    "desa": "Nanga Ambalau",
+    "forest_zone": "Hutan Produksi Terbatas (HPT)",
+    "in_kph": true,
+    "near_river": true,
+    "river_distance_m": 110,
+    "near_road": true,
+    "road_distance_m": 195,
+    "in_peatland": false,
+    "confidence_score": 95,
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "source_name": "Copernicus Data Space Ecosystem - Sentinel-2 MSI Level-2A",
+    "source_url": "https://dataspace.copernicus.eu/browser/?lat=-0.745&lng=112.825&zoom=14",
+    "acquisition_date": "2026-09-23T02:55:51.000Z",
+    "processing_date": "2026-09-23T08:30:00.000Z",
+    "processing_method": "Bi-temporal Difference (dNDVI) with Geodesic PostGIS Clustering",
+    "processing_version": "v2.4.0-COPERNICUS-L2A"
+  },
+  {
+    "event_id": "LCE-2026-0918-ST03",
+    "baseline_scene_id": "S2A_MSIL2A_20260715T025551_N0500_R032_T49MCV_20260715T061012",
+    "comparison_scene_id": "S2B_MSIL2A_20260918T025549_N0500_R032_T49MCU_20260918T053011",
+    "event_type": "CLEARING",
+    "severity": "MEDIUM",
+    "status": "VERIFIED",
+    "area_ha": 5.6,
+    "mean_delta_index": -0.26,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.182,
+            -0.413
+          ],
+          [
+            112.187,
+            -0.412
+          ],
+          [
+            112.189,
+            -0.417
+          ],
+          [
+            112.184,
+            -0.418
+          ],
+          [
+            112.182,
+            -0.413
+          ]
+        ]
+      ]
+    },
+    "centroid_latitude": -0.415,
+    "centroid_longitude": 112.185,
+    "aoi_id": "AOI-KPH-SINTANG-TIMUR",
+    "kecamatan": "Kayan Hulu",
+    "desa": "Nanga Tebidah",
+    "forest_zone": "Hutan Produksi Tetap (HP)",
+    "in_kph": true,
+    "near_river": false,
+    "river_distance_m": 420,
+    "near_road": true,
+    "road_distance_m": 140,
+    "in_peatland": false,
+    "confidence_score": 87,
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "source_name": "Copernicus Data Space Ecosystem - Sentinel-2 MSI Level-2A",
+    "source_url": "https://dataspace.copernicus.eu/browser/?lat=-0.415&lng=112.185&zoom=14",
+    "acquisition_date": "2026-09-18T02:55:49.000Z",
+    "processing_date": "2026-09-18T09:40:00.000Z",
+    "processing_method": "Bi-temporal Difference (dNDVI) with Geodesic PostGIS Clustering",
+    "processing_version": "v2.4.0-COPERNICUS-L2A"
+  },
+  {
+    "event_id": "LCE-2026-0908-ST04",
+    "baseline_scene_id": "S2B_MSIL2A_20260510T025549_N0500_R032_T49MCU_20260510T053522",
+    "comparison_scene_id": "S2A_MSIL2A_20260908T025551_N0500_R032_T49MCV_20260908T062002",
+    "event_type": "FOREST_DISTURBANCE",
+    "severity": "LOW",
+    "status": "DETECTED",
+    "area_ha": 3.2,
+    "mean_delta_index": -0.19,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.383,
+            -0.56
+          ],
+          [
+            112.387,
+            -0.56
+          ],
+          [
+            112.388,
+            -0.564
+          ],
+          [
+            112.384,
+            -0.565
+          ],
+          [
+            112.383,
+            -0.56
+          ]
+        ]
+      ]
+    },
+    "centroid_latitude": -0.562,
+    "centroid_longitude": 112.385,
+    "aoi_id": "AOI-KPH-SINTANG-TIMUR",
+    "kecamatan": "Menukung",
+    "desa": "Nanga Menukung",
+    "forest_zone": "Hutan Produksi Terbatas (HPT)",
+    "in_kph": true,
+    "near_river": true,
+    "river_distance_m": 90,
+    "near_road": false,
+    "road_distance_m": 820,
+    "in_peatland": false,
+    "confidence_score": 81,
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "source_name": "Copernicus Data Space Ecosystem - Sentinel-2 MSI Level-2A",
+    "source_url": "https://dataspace.copernicus.eu/browser/?lat=-0.562&lng=112.385&zoom=14",
+    "acquisition_date": "2026-09-08T02:55:51.000Z",
+    "processing_date": "2026-09-08T10:00:00.000Z",
+    "processing_method": "Bi-temporal Difference (dNDVI) with Geodesic PostGIS Clustering",
+    "processing_version": "v2.4.0-COPERNICUS-L2A"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "KPH Intelligence",
+  "description": "Platform intelligence berbasis data publik untuk pemantauan wilayah Kesatuan Pengelolaan Hutan (KPH) Sintang Timur dan Kabupaten Sintang, Kalimantan Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

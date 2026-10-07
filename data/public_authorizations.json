@@ -1,0 +1,83 @@
+[
+  {
+    "authorization_id": "AUTH-PUB-IUPHHK-001",
+    "permit_type": "IUPHHK_HA",
+    "holder_name": "PT Sumber Rimba Lestari",
+    "decree_number": "SK.412/Menhut-II/2012",
+    "decree_date": "2012-08-14",
+    "valid_until": "2057-08-14",
+    "commodity": "Kayu Bulat Alami RKT Terbatas",
+    "total_area_ha": 38450.0,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [112.45, -0.38],
+          [112.55, -0.38],
+          [112.55, -0.46],
+          [112.45, -0.46],
+          [112.45, -0.38]
+        ]
+      ]
+    },
+    "centroid": [112.50, -0.42],
+    "kecamatan": ["Serawai", "Ambalau"],
+    "public_source_url": "https://geoportal.menlhk.go.id/arcgis/rest/services/KLHK/Peta_Izin_Usaha_Pemanfaatan_Hasil_Hutan/MapServer",
+    "source_agency": "Kementerian Lingkungan Hidup dan Kehutanan (KLHK) RI",
+    "is_publicly_registered": true
+  },
+  {
+    "authorization_id": "AUTH-PUB-HUTANDESA-002",
+    "permit_type": "HUTAN_DESA_PERHUTANAN_SOSIAL",
+    "holder_name": "Lembaga Pengelola Hutan Desa (LPHD) Nanga Serawai",
+    "decree_number": "SK.6812/MENLHK-PSKL/PKPS/PSL.0/10/2019",
+    "decree_date": "2019-10-22",
+    "valid_until": "2054-10-22",
+    "commodity": "Pengelolaan HHBK & Jasa Lingkungan Ekowisata",
+    "total_area_ha": 3120.0,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [112.60, -0.50],
+          [112.65, -0.50],
+          [112.65, -0.54],
+          [112.60, -0.54],
+          [112.60, -0.50]
+        ]
+      ]
+    },
+    "centroid": [112.625, -0.52],
+    "kecamatan": ["Serawai"],
+    "public_source_url": "https://simps.menlhk.go.id/portal",
+    "source_agency": "Ditjen Perhutanan Sosial dan Kemitraan Lingkungan (PSKL) KLHK",
+    "is_publicly_registered": true
+  },
+  {
+    "authorization_id": "AUTH-PUB-HGU-003",
+    "permit_type": "HGU_PLANTATION",
+    "holder_name": "PT Agro Sawit Sintang Makmur",
+    "decree_number": "Keputusan Menteri ATR/BPN No. 48/HGU/BPN RI/2015",
+    "decree_date": "2015-05-18",
+    "valid_until": "2050-05-18",
+    "commodity": "Kelapa Sawit",
+    "total_area_ha": 12800.0,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [111.75, 0.10],
+          [111.88, 0.10],
+          [111.88, 0.02],
+          [111.75, 0.02],
+          [111.75, 0.10]
+        ]
+      ]
+    },
+    "centroid": [111.815, 0.06],
+    "kecamatan": ["Ketungau Tengah"],
+    "public_source_url": "https://bhumi.atrbpn.go.id",
+    "source_agency": "Kementerian ATR/BPN & Satu Data Kalbar",
+    "is_publicly_registered": true
+  }
+]

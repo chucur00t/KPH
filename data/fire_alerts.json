@@ -1,0 +1,71 @@
+[
+  {
+    "alert_id": "ALT-CLUSTER-FE-STG-2026-001",
+    "alert_type": "MULTIPLE_HOTSPOT_CLUSTER",
+    "severity": "MODERATE",
+    "event_id": "FE-STG-2026-001",
+    "headline": "Multiple fire detections observed in Ketungau Hilir & Tengah (Areal Penggunaan Lain (APL) Wilayah Perbatasan & Perkebunan)",
+    "reason": "Kluster spasial berjarak <3.5 km dalam jendela waktu 48 jam terdeteksi di Ketungau Hilir & Tengah.",
+    "evidence": "2 hotspot teramati dari instrumen VIIRS/MODIS.",
+    "source": "NASA FIRMS NRT Feed",
+    "status": "ACTIVE",
+    "created_at": "2026-09-30T05:40:00.000Z"
+  },
+  {
+    "alert_id": "ALT-CLUSTER-FE-STG-2026-002",
+    "alert_type": "MULTIPLE_HOTSPOT_CLUSTER",
+    "severity": "MODERATE",
+    "event_id": "FE-STG-2026-002",
+    "headline": "Multiple fire detections observed in Serawai (Hutan Produksi Terbatas (HPT) Serawai - Kayan Hulu)",
+    "reason": "Kluster spasial berjarak <3.5 km dalam jendela waktu 48 jam terdeteksi di Serawai.",
+    "evidence": "2 hotspot teramati dari instrumen VIIRS/MODIS.",
+    "source": "NASA FIRMS NRT Feed",
+    "status": "ACTIVE",
+    "created_at": "2026-09-30T04:20:00.000Z"
+  },
+  {
+    "alert_id": "ALT-HL-FE-STG-2026-003",
+    "alert_type": "PROTECTED_FOREST_ANOMALY",
+    "severity": "HIGH",
+    "event_id": "FE-STG-2026-003",
+    "headline": "Thermal anomaly detected inside Hutan Lindung (HL) Ambalau",
+    "reason": "Multiple detections (3 titik) teramati di dalam zona Hutan Lindung dengan kecerahan maksimal 356.2 K.",
+    "evidence": "NASA FIRMS VIIRS SNPP/NOAA20, FRP: 109.5 MW, jarak ke sungai 563m",
+    "source": "NASA FIRMS VIIRS & PostGIS Spatial Layer HL",
+    "status": "ACTIVE",
+    "created_at": "2026-09-29T06:15:00.000Z"
+  },
+  {
+    "alert_id": "ALT-RISK-RISK-MUO2YLZ6",
+    "alert_type": "HIGH_FIRE_RISK",
+    "severity": "HIGH",
+    "headline": "High fire risk indicator in KPH Sintang Timur (Composite Score: 81.3)",
+    "reason": "Kombinasi defisit curah hujan ekstrem (<2 mm), suhu tinggi 32.4°C, dan peningkatan aktivitas termal satelit.",
+    "evidence": "BMKG Susilo Sintang Rainfall & Open-Meteo Atmospheric Observations",
+    "source": "Public Meteorological Evidence Model",
+    "status": "ACTIVE",
+    "created_at": "2026-09-30T12:27:22.434Z"
+  },
+  {
+    "alert_id": "ALT-REC-REC-STG-02",
+    "alert_type": "REPEATED_HOTSPOT_ALERT",
+    "severity": "MODERATE",
+    "headline": "Repeated thermal anomalies observed at Serawai (3 detections in 90d)",
+    "reason": "Anomali termal berulang terdeteksi di lokasi koordinat -0.4570, 112.3855 selama 90 hari terakhir.",
+    "evidence": "Historis deteksi 7d: 2, 30d: 3, 90d: 3",
+    "source": "NASA FIRMS Historical Timeseries",
+    "status": "ACTIVE",
+    "created_at": "2026-09-30T04:20:00.000Z"
+  },
+  {
+    "alert_id": "ALT-REC-REC-STG-03",
+    "alert_type": "REPEATED_HOTSPOT_ALERT",
+    "severity": "MODERATE",
+    "headline": "Repeated thermal anomalies observed at Ambalau (5 detections in 90d)",
+    "reason": "Anomali termal berulang terdeteksi di lokasi koordinat -0.1210, 112.5590 selama 90 hari terakhir.",
+    "evidence": "Historis deteksi 7d: 3, 30d: 4, 90d: 5",
+    "source": "NASA FIRMS Historical Timeseries",
+    "status": "ACTIVE",
+    "created_at": "2026-09-29T06:15:00.000Z"
+  }
+]

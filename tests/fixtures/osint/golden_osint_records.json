@@ -1,0 +1,12 @@
+[
+  {
+    "record_id": "GOLDEN-OSINT-001",
+    "source_id": "SRC-LKBN-ANTARA-KALBAR",
+    "title": "BPBD Sintang Tingkatkan Patroli Siaga Karhutla di Wilayah Perhuluan",
+    "source_url": "https://kalbar.antaranews.com/berita/karhutla-sintang-2026",
+    "published_at": "2026-09-30T09:45:00.000Z",
+    "expected_extracted_kecamatan": ["Ambalau", "Serawai"],
+    "expected_activity_type": "FIRE",
+    "provenance_verified": true
+  }
+]

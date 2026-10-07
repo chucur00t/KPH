@@ -1,0 +1,14 @@
+[
+  {
+    "event_id": "GOLDEN-LCE-001",
+    "event_type": "CANOPY_LOSS",
+    "centroid_latitude": -0.125,
+    "centroid_longitude": 112.565,
+    "area_ha": 14.8,
+    "mean_delta_index": -0.41,
+    "acquisition_date": "2026-09-28T02:55:49.000Z",
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "expected_correlation_with_fire": "GOLDEN-FIRE-VIIRS-001",
+    "expected_distance_meters": 204
+  }
+]

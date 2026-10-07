@@ -1,0 +1,222 @@
+[
+  {
+    "event_id": "FE-STG-2026-001",
+    "event_type": "FIRE_CLUSTER",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            111.777,
+            0.13999999999999999
+          ],
+          [
+            111.79419999999999,
+            0.13999999999999999
+          ],
+          [
+            111.79419999999999,
+            0.1538
+          ],
+          [
+            111.777,
+            0.1538
+          ],
+          [
+            111.777,
+            0.13999999999999999
+          ]
+        ]
+      ]
+    },
+    "estimated_event_extent_ha": 146.74,
+    "centroid": [
+      111.7856,
+      0.1469
+    ],
+    "first_detected_at": "2026-09-29T03:10:00.000Z",
+    "last_detected_at": "2026-09-30T05:40:00.000Z",
+    "duration_hours": 26.5,
+    "detection_count": 2,
+    "source_count": 1,
+    "max_brightness_kelvin": 334,
+    "total_frp_mw": 32.8,
+    "confidence": "MEDIUM",
+    "status": "CORRELATED",
+    "analysis_run_id": "RUN-CLUSTER-MUO2YLZ5",
+    "kph_unit": "KPH Sintang Timur",
+    "kabupaten": "Kabupaten Sintang",
+    "kecamatan": "Ketungau Hilir & Tengah",
+    "desa": null,
+    "forest_zone": "Areal Penggunaan Lain (APL) Wilayah Perbatasan & Perkebunan",
+    "is_peatland": false,
+    "peat_depth": null,
+    "nearest_river_name": "Sungai Kapuas (Jalur Utama)",
+    "distance_to_river_m": 4202,
+    "nearest_road_name": "Jalan Nasional Trans Kalimantan Poros Tengah",
+    "distance_to_road_m": 8023,
+    "weather_station": "Stasiun Meteorologi Susilo Sintang",
+    "temperature_c": 32.4,
+    "humidity_percent": 68,
+    "wind_speed_kmh": 14.2,
+    "wind_direction_deg": 125,
+    "rainfall_24h_mm": 1.2,
+    "rainfall_7d_mm": 8.5,
+    "fire_weather_index": "TINGGI",
+    "recurring_indicator": false,
+    "recurrence_count_90d": 1,
+    "detection_ids": [
+      "FIRMS-VIIRS-STG-20260930-007",
+      "FIRMS-MODIS-STG-20260929-006"
+    ],
+    "created_at": "2026-09-30T12:27:22.434Z",
+    "updated_at": "2026-09-30T12:27:22.434Z"
+  },
+  {
+    "event_id": "FE-STG-2026-002",
+    "event_type": "FIRE_CLUSTER",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.37620000000001,
+            -0.462
+          ],
+          [
+            112.39049999999999,
+            -0.462
+          ],
+          [
+            112.39049999999999,
+            -0.4462
+          ],
+          [
+            112.37620000000001,
+            -0.4462
+          ],
+          [
+            112.37620000000001,
+            -0.462
+          ]
+        ]
+      ]
+    },
+    "estimated_event_extent_ha": 139.68,
+    "centroid": [
+      112.38335,
+      -0.4541
+    ],
+    "first_detected_at": "2026-09-29T06:15:00.000Z",
+    "last_detected_at": "2026-09-30T04:20:00.000Z",
+    "duration_hours": 22.1,
+    "detection_count": 2,
+    "source_count": 1,
+    "max_brightness_kelvin": 349.8,
+    "total_frp_mw": 50.7,
+    "confidence": "HIGH",
+    "status": "CORRELATED",
+    "analysis_run_id": "RUN-CLUSTER-MUO2YLZ5",
+    "kph_unit": "Kesatuan Pengelolaan Hutan (KPH) Sintang Timur",
+    "kabupaten": "Kabupaten Sintang",
+    "kecamatan": "Serawai",
+    "desa": null,
+    "forest_zone": "Hutan Produksi Terbatas (HPT) Serawai - Kayan Hulu",
+    "is_peatland": false,
+    "peat_depth": null,
+    "nearest_river_name": "Sungai Melawi",
+    "distance_to_river_m": 589,
+    "nearest_road_name": "Jalan Koridor Akses Sintang - Kayan Hilir (Nanga Mau)",
+    "distance_to_road_m": 45806,
+    "weather_station": "Stasiun Meteorologi Susilo Sintang",
+    "temperature_c": 32.4,
+    "humidity_percent": 68,
+    "wind_speed_kmh": 14.2,
+    "wind_direction_deg": 125,
+    "rainfall_24h_mm": 1.2,
+    "rainfall_7d_mm": 8.5,
+    "fire_weather_index": "TINGGI",
+    "recurring_indicator": false,
+    "recurrence_count_90d": 1,
+    "detection_ids": [
+      "FIRMS-VIIRS-STG-20260930-005",
+      "FIRMS-VIIRS-STG-20260929-004"
+    ],
+    "created_at": "2026-09-30T12:27:22.434Z",
+    "updated_at": "2026-09-30T12:27:22.434Z"
+  },
+  {
+    "event_id": "FE-STG-2026-003",
+    "event_type": "FIRE_CLUSTER",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.554,
+            -0.1338
+          ],
+          [
+            112.57339999999999,
+            -0.1338
+          ],
+          [
+            112.57339999999999,
+            -0.11599999999999999
+          ],
+          [
+            112.554,
+            -0.11599999999999999
+          ],
+          [
+            112.554,
+            -0.1338
+          ]
+        ]
+      ]
+    },
+    "estimated_event_extent_ha": 213.48,
+    "centroid": [
+      112.56317,
+      -0.12477
+    ],
+    "first_detected_at": "2026-09-29T05:42:00.000Z",
+    "last_detected_at": "2026-09-29T06:15:00.000Z",
+    "duration_hours": 0.6,
+    "detection_count": 3,
+    "source_count": 1,
+    "max_brightness_kelvin": 356.2,
+    "total_frp_mw": 109.5,
+    "confidence": "HIGH",
+    "status": "CORRELATED",
+    "analysis_run_id": "RUN-CLUSTER-MUO2YLZ5",
+    "kph_unit": "Kesatuan Pengelolaan Hutan (KPH) Sintang Timur",
+    "kabupaten": "Kabupaten Sintang",
+    "kecamatan": "Ambalau",
+    "desa": null,
+    "forest_zone": "Hutan Lindung (HL) Pegunungan Muller / Bukit Baka",
+    "is_peatland": false,
+    "peat_depth": null,
+    "nearest_river_name": "Sungai Melawi",
+    "distance_to_river_m": 563,
+    "nearest_road_name": "Jalan Nasional Trans Kalimantan Poros Tengah",
+    "distance_to_road_m": 55174,
+    "weather_station": "Stasiun Meteorologi Susilo Sintang",
+    "temperature_c": 32.4,
+    "humidity_percent": 68,
+    "wind_speed_kmh": 14.2,
+    "wind_direction_deg": 125,
+    "rainfall_24h_mm": 1.2,
+    "rainfall_7d_mm": 8.5,
+    "fire_weather_index": "TINGGI",
+    "recurring_indicator": true,
+    "recurrence_count_90d": 3,
+    "detection_ids": [
+      "FIRMS-VIIRS-STG-20260929-003",
+      "FIRMS-VIIRS-STG-20260929-001",
+      "FIRMS-VIIRS-STG-20260929-002"
+    ],
+    "created_at": "2026-09-30T12:27:22.434Z",
+    "updated_at": "2026-09-30T12:27:22.434Z"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "observation_id": "OBS-MUO2QY6S-49MCV",
+    "scene_id": "S2B_MSIL2A_20260928T025549_N0500_R032_T49MCV_20260928T054512",
+    "aoi_id": "AOI-KPH-SINTANG-TIMUR",
+    "observation_date": "2026-09-28T02:55:49.000Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            111.45,
+            -0.9
+          ],
+          [
+            112.45,
+            -0.9
+          ],
+          [
+            112.45,
+            0
+          ],
+          [
+            111.45,
+            0
+          ],
+          [
+            111.45,
+            -0.9
+          ]
+        ]
+      ]
+    },
+    "index_type": "NDVI",
+    "value": 0.74,
+    "statistics": {
+      "min": -0.15,
+      "max": 0.88,
+      "mean": 0.74,
+      "std_dev": 0.12,
+      "p10": 0.45,
+      "p50": 0.74,
+      "p90": 0.82,
+      "histogram": [
+        {
+          "bin_start": -0.2,
+          "bin_end": 0,
+          "count": 120
+        },
+        {
+          "bin_start": 0,
+          "bin_end": 0.2,
+          "count": 480
+        },
+        {
+          "bin_start": 0.2,
+          "bin_end": 0.4,
+          "count": 1850
+        },
+        {
+          "bin_start": 0.4,
+          "bin_end": 0.6,
+          "count": 7200
+        },
+        {
+          "bin_start": 0.6,
+          "bin_end": 0.8,
+          "count": 24500
+        },
+        {
+          "bin_start": 0.8,
+          "bin_end": 1,
+          "count": 8900
+        }
+      ]
+    },
+    "processing_method": "Atmospheric BOA Reflectance Surface Index (NDVI)",
+    "processing_version": "v2.4.0-COPERNICUS-L2A",
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "created_at": "2026-09-30T12:21:25.012Z"
+  }
+]

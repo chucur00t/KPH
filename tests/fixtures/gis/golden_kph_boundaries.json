@@ -1,0 +1,13 @@
+{
+  "unit_name": "KPH Sintang Timur",
+  "kabupaten": "Kabupaten Sintang",
+  "provinsi": "Kalimantan Barat",
+  "total_area_ha": 847200,
+  "bbox": [111.15, -1.15, 113.35, 0.05],
+  "expected_kecamatans_count": 14,
+  "expected_critical_zones": [
+    "Hutan Lindung (HL) Pegunungan Muller / Bukit Baka",
+    "Hutan Produksi Terbatas (HPT) Serawai - Kayan Hulu",
+    "Kawasan Hidrologis Gambut (KHG) Belitang - Kapuas"
+  ]
+}

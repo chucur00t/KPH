@@ -1,0 +1,58 @@
+[
+  {
+    "enforcement_event_id": "ENF-STG-2026-001",
+    "event_type": "TIMBER_SEIZURE",
+    "agency": "Balai Pengamanan dan Penegakan Hukum (Gakkum) KLHK Wilayah Kalimantan",
+    "location": "Aliran Sungai Melawi Hilir, Kec. Ambalau, Sintang",
+    "kecamatan": "Ambalau",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.565, -0.124]
+    },
+    "centroid": [112.565, -0.124],
+    "event_date": "2026-09-24",
+    "publicationDate": "2026-09-26",
+    "case_reference": "SI-GAKKUM/KAL-BPPHLHK/IX/2026/041",
+    "organization": "Dalam Penyelidikan PPNS LHK & Reskrimsus",
+    "public_entity": "Gakkum KLHK Wilayah Kalimantan Seksi Wilayah III Pontianak",
+    "activity_type": "Penyitaan Kayu Olahan Tanpa SKSHH Sah",
+    "description": "Penyitaan sebanyak 42 m3 kayu olahan kelompok meranti tak bertuan yang dirakit melintasi aliran hulu Sungai Melawi tanpa dilengkapi Surat Keterangan Sahnya Hasil Hutan (SKSHHK).",
+    "legal_reference": "Pasal 83 Ayat 1 Huruf b UU No. 18 Tahun 2013 tentang Pencegahan dan Pemberantasan Perusakan Hutan (P3H)",
+    "legal_status": "PUBLIC_ENFORCEMENT_REPORTED",
+    "source_id": "SRC-ANTARA-KALBAR",
+    "source_url": "https://kalbar.antaranews.com/berita/gakkum-klhk-amankan-kayu-olahan-di-melawi-sintang",
+    "source_excerpt": "Gakkum KLHK bersama instansi terkait berhasil mengamankan rakit kayu olahan tanpa dokumen resmi di perairan Melawi wilayah hulu Sintang.",
+    "confidence": "HIGH",
+    "status": "PROCEEDING",
+    "created_at": "2026-09-26T10:00:00Z",
+    "updated_at": "2026-09-26T10:00:00Z"
+  },
+  {
+    "enforcement_event_id": "ENF-STG-2026-002",
+    "event_type": "MINING_ENFORCEMENT",
+    "agency": "Satreskrim Polres Sintang & Subdit Tipidter Ditreskrimsus Polda Kalbar",
+    "location": "Bantaran Sungai Kayan, Desa Nanga Mau, Kec. Kayan Hilir",
+    "kecamatan": "Kayan Hilir",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.185, -0.285]
+    },
+    "centroid": [112.185, -0.285],
+    "event_date": "2026-09-18",
+    "publicationDate": "2026-09-19",
+    "case_reference": "LP/A/142/IX/2026/SPKT.SATRESKRIM/POLRES SINTANG/POLDA KALBAR",
+    "organization": "Aktivitas Tambang Emas Tanpa Izin (PETI) Rakit",
+    "public_entity": "Polres Sintang",
+    "activity_type": "Penertiban Tambang Emas Tanpa Izin di Sempadan Sungai",
+    "description": "Operasi gabungan penertiban 3 unit set mesin dongfeng penyedot pasir emas tanpa IUP di sempadan perairan Sungai Kayan yang berpotensi merusak bantaran sempadan.",
+    "legal_reference": "Pasal 158 UU No. 3 Tahun 2020 tentang Perubahan atas UU No. 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara",
+    "legal_status": "PUBLIC_ENFORCEMENT_REPORTED",
+    "source_id": "SRC-ANTARA-KALBAR",
+    "source_url": "https://kalbar.antaranews.com/berita/polres-sintang-tertibkan-aktivitas-peti-kayan-hilir",
+    "source_excerpt": "Petugas mengamankan peralatan penambangan tanpa izin dan memasang garis polisi guna mencegah sedimentasi berat di DAS Kayan.",
+    "confidence": "HIGH",
+    "status": "DECIDED",
+    "created_at": "2026-09-19T08:30:00Z",
+    "updated_at": "2026-09-19T08:30:00Z"
+  }
+]

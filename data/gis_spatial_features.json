@@ -1,0 +1,703 @@
+[
+  {
+    "feature_id": "FEAT-KPH-STG-TIMUR",
+    "layer_id": "LAYER-KPH-BOUNDARY",
+    "type": "Feature",
+    "source_id": "SRC-KLHK-GEOPORTAL-SIGAP",
+    "source_record_id": "SK.674/Menhut-II/2011",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            111.95,
+            -0.05
+          ],
+          [
+            112.25,
+            0.15
+          ],
+          [
+            112.85,
+            0.25
+          ],
+          [
+            113.3,
+            -0.05
+          ],
+          [
+            113.25,
+            -0.65
+          ],
+          [
+            112.95,
+            -1.05
+          ],
+          [
+            112.55,
+            -0.95
+          ],
+          [
+            112.3,
+            -0.75
+          ],
+          [
+            112.05,
+            -0.5
+          ],
+          [
+            111.9,
+            -0.25
+          ],
+          [
+            111.95,
+            -0.05
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "KPH-STG-TIMUR",
+      "name": "Kesatuan Pengelolaan Hutan (KPH) Sintang Timur",
+      "sk_penetapan": "SK.674/Menhut-II/2011",
+      "provinsi": "Kalimantan Barat",
+      "kabupaten": "Sintang",
+      "area_ha": 847200,
+      "pengelola": "UPTD KPH Sintang Timur - Dishut Kalbar",
+      "source": "Geoportal KLHK RI (Data Publik Terbuka)",
+      "license": "Kebijakan Satu Peta Indonesia"
+    },
+    "bbox": [
+      111.9,
+      -1.05,
+      113.3,
+      0.25
+    ],
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-KAB-SINTANG",
+    "layer_id": "LAYER-KABUPATEN-ADMIN",
+    "type": "Feature",
+    "source_id": "SRC-BPS-SINTANG-ADMIN",
+    "source_record_id": "BPS-KAB-6105",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            111.2,
+            0.4
+          ],
+          [
+            111.6,
+            0.48
+          ],
+          [
+            112.1,
+            0.35
+          ],
+          [
+            112.85,
+            0.25
+          ],
+          [
+            113.35,
+            -0.05
+          ],
+          [
+            113.3,
+            -0.7
+          ],
+          [
+            112.95,
+            -1.15
+          ],
+          [
+            112.45,
+            -0.95
+          ],
+          [
+            112,
+            -0.65
+          ],
+          [
+            111.55,
+            -0.45
+          ],
+          [
+            111.25,
+            -0.15
+          ],
+          [
+            111.15,
+            0.15
+          ],
+          [
+            111.2,
+            0.4
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "kode_kemendagri": "61.05",
+      "nama": "Kabupaten Sintang",
+      "ibukota": "Kecamatan Sintang",
+      "luas_wilayah_ha": 2163500,
+      "jumlah_kecamatan": 14,
+      "source": "Badan Informasi Geospasial (BIG) Open Data"
+    },
+    "bbox": [
+      111.15,
+      -1.15,
+      113.35,
+      0.48
+    ],
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-FOREST-ZONE-1",
+    "layer_id": "LAYER-FUNGSI-KAWASAN",
+    "type": "Feature",
+    "source_id": "SRC-KLHK-GEOPORTAL-SIGAP",
+    "source_record_id": "ZONE-HL-AMBALAU",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.45,
+            -0.05
+          ],
+          [
+            112.85,
+            0.18
+          ],
+          [
+            113.25,
+            -0.05
+          ],
+          [
+            113.15,
+            -0.45
+          ],
+          [
+            112.65,
+            -0.35
+          ],
+          [
+            112.45,
+            -0.05
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "ZONE-HL-AMBALAU",
+      "nama": "Hutan Lindung (HL) Pegunungan Muller / Bukit Baka",
+      "fungsi": "Hutan Lindung (HL)",
+      "color": "#10b981",
+      "fillColor": "#10b981",
+      "kph": "KPH Sintang Timur",
+      "kecamatan": "Ambalau",
+      "status": "Dilindungi Penuh (Non-Konsesi)",
+      "sk": "SK.733/Menhut-II/2014"
+    },
+    "bbox": [
+      111.35,
+      -0.85,
+      113.25,
+      0.25
+    ],
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-FOREST-ZONE-2",
+    "layer_id": "LAYER-FUNGSI-KAWASAN",
+    "type": "Feature",
+    "source_id": "SRC-KLHK-GEOPORTAL-SIGAP",
+    "source_record_id": "ZONE-HPT-SERAWAI",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.15,
+            -0.35
+          ],
+          [
+            112.65,
+            -0.35
+          ],
+          [
+            112.95,
+            -0.65
+          ],
+          [
+            112.65,
+            -0.85
+          ],
+          [
+            112.25,
+            -0.65
+          ],
+          [
+            112.15,
+            -0.35
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "ZONE-HPT-SERAWAI",
+      "nama": "Hutan Produksi Terbatas (HPT) Serawai - Kayan Hulu",
+      "fungsi": "Hutan Produksi Terbatas (HPT)",
+      "color": "#f59e0b",
+      "fillColor": "#f59e0b",
+      "kph": "KPH Sintang Timur",
+      "kecamatan": "Serawai",
+      "status": "Pemanfaatan Terbatas Eksploitasi Selektif",
+      "sk": "SK.733/Menhut-II/2014"
+    },
+    "bbox": [
+      111.35,
+      -0.85,
+      113.25,
+      0.25
+    ],
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-FOREST-ZONE-3",
+    "layer_id": "LAYER-FUNGSI-KAWASAN",
+    "type": "Feature",
+    "source_id": "SRC-KLHK-GEOPORTAL-SIGAP",
+    "source_record_id": "ZONE-HP-KAYAN",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            111.85,
+            -0.15
+          ],
+          [
+            112.15,
+            -0.15
+          ],
+          [
+            112.2,
+            -0.45
+          ],
+          [
+            111.8,
+            -0.45
+          ],
+          [
+            111.85,
+            -0.15
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "ZONE-HP-KAYAN",
+      "nama": "Hutan Produksi Tetap (HP) Kayan Hilir",
+      "fungsi": "Hutan Produksi Tetap (HP)",
+      "color": "#3b82f6",
+      "fillColor": "#3b82f6",
+      "kph": "KPH Sintang Timur",
+      "kecamatan": "Kayan Hilir",
+      "status": "Produksi Kayu Berkelanjutan",
+      "sk": "SK.733/Menhut-II/2014"
+    },
+    "bbox": [
+      111.35,
+      -0.85,
+      113.25,
+      0.25
+    ],
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-FOREST-ZONE-4",
+    "layer_id": "LAYER-FUNGSI-KAWASAN",
+    "type": "Feature",
+    "source_id": "SRC-KLHK-GEOPORTAL-SIGAP",
+    "source_record_id": "ZONE-APL-KETUNGAU",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            111.35,
+            0.05
+          ],
+          [
+            111.85,
+            0.25
+          ],
+          [
+            111.95,
+            0.05
+          ],
+          [
+            111.45,
+            -0.1
+          ],
+          [
+            111.35,
+            0.05
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "ZONE-APL-KETUNGAU",
+      "nama": "Areal Penggunaan Lain (APL) Wilayah Perbatasan & Perkebunan",
+      "fungsi": "Areal Penggunaan Lain (APL)",
+      "color": "#8b5cf6",
+      "fillColor": "#8b5cf6",
+      "kph": "Bukan Kawasan Hutan (Penyangga)",
+      "kecamatan": "Ketungau Hilir & Tengah",
+      "status": "Areal Budidaya / Perkebunan / Pemukiman",
+      "sk": "RTRW Kabupaten Sintang"
+    },
+    "bbox": [
+      111.35,
+      -0.85,
+      113.25,
+      0.25
+    ],
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-PEATLAND-1",
+    "layer_id": "LAYER-GAMBUT-KHG",
+    "type": "Feature",
+    "source_id": "SRC-BRGM-PRIMS-GAMBUT",
+    "source_record_id": "KHG-BELITANG-KAPUAS",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            111.6,
+            0.08
+          ],
+          [
+            111.9,
+            0.18
+          ],
+          [
+            111.85,
+            0.02
+          ],
+          [
+            111.62,
+            0.02
+          ],
+          [
+            111.6,
+            0.08
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "KHG-BELITANG-KAPUAS",
+      "nama": "KHG Sungai Kapuas - Sungai Belitang",
+      "tipe": "Fungsi Lindung Ekosistem Gambut (Kubah Gambut)",
+      "kedalaman": "Sedang (100 - 200 cm)",
+      "luas_ha": 38400,
+      "tingkat_rawan_api": "TINGGI (Rentan terbakar bila kering)",
+      "source": "Peta Indikatif KHG BRGM RI (Publik)"
+    },
+    "bbox": [
+      111.6,
+      -0.28,
+      112.25,
+      0.18
+    ],
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-PEATLAND-2",
+    "layer_id": "LAYER-GAMBUT-KHG",
+    "type": "Feature",
+    "source_id": "SRC-BRGM-PRIMS-GAMBUT",
+    "source_record_id": "KHG-MELAWI-DELTA",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            112.05,
+            -0.18
+          ],
+          [
+            112.25,
+            -0.12
+          ],
+          [
+            112.22,
+            -0.25
+          ],
+          [
+            112.08,
+            -0.28
+          ],
+          [
+            112.05,
+            -0.18
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "KHG-MELAWI-DELTA",
+      "nama": "KHG Daerah Aliran Sungai Melawi Bawah",
+      "tipe": "Gambut Dangkal Aluvial",
+      "kedalaman": "Dangkal (50 - 100 cm)",
+      "luas_ha": 14200,
+      "tingkat_rawan_api": "SEDANG",
+      "source": "Peta Indikatif KHG BRGM RI (Publik)"
+    },
+    "bbox": [
+      111.6,
+      -0.28,
+      112.25,
+      0.18
+    ],
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-RIVER-1",
+    "layer_id": "LAYER-SUNGAI-HIDRO",
+    "type": "Feature",
+    "source_id": "SRC-OSM-GEOFABRIK-KALBAR",
+    "source_record_id": "OSM-RIVER-1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          111.2,
+          0.12
+        ],
+        [
+          111.45,
+          0.08
+        ],
+        [
+          111.5,
+          0.05
+        ],
+        [
+          111.75,
+          0.1
+        ],
+        [
+          112.1,
+          0.18
+        ],
+        [
+          112.5,
+          0.25
+        ]
+      ]
+    },
+    "properties": {
+      "nama": "Sungai Kapuas (Jalur Utama)",
+      "lebar_rata2_m": 350,
+      "status": "Sungai Strategis Nasional / Batas Koridor Buffer 100m",
+      "source": "OpenStreetMap Hydrography"
+    },
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-29T18:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-RIVER-2",
+    "layer_id": "LAYER-SUNGAI-HIDRO",
+    "type": "Feature",
+    "source_id": "SRC-OSM-GEOFABRIK-KALBAR",
+    "source_record_id": "OSM-RIVER-2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          111.5,
+          0.05
+        ],
+        [
+          111.8,
+          -0.15
+        ],
+        [
+          112.1,
+          -0.3
+        ],
+        [
+          112.38,
+          -0.45
+        ],
+        [
+          112.56,
+          -0.12
+        ]
+      ]
+    },
+    "properties": {
+      "nama": "Sungai Melawi",
+      "lebar_rata2_m": 220,
+      "status": "Jalur Transportasi Air Utama Sintang - Serawai - Ambalau",
+      "source": "OpenStreetMap Hydrography"
+    },
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-29T18:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-RIVER-3",
+    "layer_id": "LAYER-SUNGAI-HIDRO",
+    "type": "Feature",
+    "source_id": "SRC-OSM-GEOFABRIK-KALBAR",
+    "source_record_id": "OSM-RIVER-3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          111.8,
+          -0.15
+        ],
+        [
+          111.95,
+          -0.25
+        ],
+        [
+          112.01,
+          -0.28
+        ],
+        [
+          112.15,
+          -0.4
+        ]
+      ]
+    },
+    "properties": {
+      "nama": "Sungai Kayan",
+      "lebar_rata2_m": 90,
+      "status": "Anak Sungai Melawi",
+      "source": "OpenStreetMap Hydrography"
+    },
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-29T18:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-ROAD-1",
+    "layer_id": "LAYER-JALAN-AKSES",
+    "type": "Feature",
+    "source_id": "SRC-OSM-GEOFABRIK-KALBAR",
+    "source_record_id": "OSM-ROAD-1",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          111.18,
+          0.02
+        ],
+        [
+          111.5,
+          0.05
+        ],
+        [
+          111.85,
+          0.08
+        ],
+        [
+          112.15,
+          0.15
+        ]
+      ]
+    },
+    "properties": {
+      "nama": "Jalan Nasional Trans Kalimantan Poros Tengah",
+      "kelas": "Jalan Arteri Primer",
+      "kondisi": "Aspal / Terawat",
+      "source": "Kementerian PUPR Open Data"
+    },
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-29T18:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-ROAD-2",
+    "layer_id": "LAYER-JALAN-AKSES",
+    "type": "Feature",
+    "source_id": "SRC-OSM-GEOFABRIK-KALBAR",
+    "source_record_id": "OSM-ROAD-2",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          111.5,
+          0.05
+        ],
+        [
+          111.65,
+          -0.15
+        ],
+        [
+          111.75,
+          -0.32
+        ]
+      ]
+    },
+    "properties": {
+      "nama": "Jalan Poros Sintang - Nanga Pinoh",
+      "kelas": "Jalan Kolektor Primer",
+      "kondisi": "Aspal",
+      "source": "Dinas Bina Marga Kalbar"
+    },
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-29T18:00:00.000Z"
+  },
+  {
+    "feature_id": "FEAT-ROAD-3",
+    "layer_id": "LAYER-JALAN-AKSES",
+    "type": "Feature",
+    "source_id": "SRC-OSM-GEOFABRIK-KALBAR",
+    "source_record_id": "OSM-ROAD-3",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          111.5,
+          0.05
+        ],
+        [
+          111.78,
+          -0.1
+        ],
+        [
+          112.01,
+          -0.28
+        ]
+      ]
+    },
+    "properties": {
+      "nama": "Jalan Koridor Akses Sintang - Kayan Hilir (Nanga Mau)",
+      "kelas": "Jalan Provinsi / Lokal",
+      "kondisi": "Agregat & Tanah Diperkeras",
+      "source": "OpenStreetMap Highway Dataset"
+    },
+    "created_at": "2026-09-26T00:00:00.000Z",
+    "updated_at": "2026-09-29T18:00:00.000Z"
+  }
+]

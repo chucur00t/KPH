@@ -1,0 +1,86 @@
+[
+  {
+    "provenance_id": "PRV-1790769798595-cvfl",
+    "source_id": "SRC-NASA-FIRMS-VIIRS",
+    "source_record_id": "VIIRS_TEST_REC_999",
+    "retrieved_at": "2026-09-30T12:00:00Z",
+    "published_at": "2026-09-30T11:45:00Z",
+    "source_url": "https://firms.modaps.eosdis.nasa.gov/active_fire/",
+    "raw_reference": "sha256:abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789",
+    "http_status": 200,
+    "records_count": 1,
+    "hash_sha256": "abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789"
+  },
+  {
+    "provenance_id": "PRV-2026-0930-FIRMS-01",
+    "source_id": "SRC-NASA-FIRMS-VIIRS",
+    "source_record_id": "VIIRS_SNPP_NRT_IDN_20260930_034500_REC_882194",
+    "retrieved_at": "2026-09-30T04:15:22.108Z",
+    "published_at": "2026-09-30T03:45:00.000Z",
+    "source_url": "https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-shapefile",
+    "raw_reference": "sha256:7a41f893e32bca23c4a037b51bcda3e9e1c4df8217bb4c982305891a27e7d018",
+    "http_status": 200,
+    "records_count": 5,
+    "hash_sha256": "7a41f893e32bca23c4a037b51bcda3e9e1c4df8217bb4c982305891a27e7d018"
+  },
+  {
+    "provenance_id": "PRV-2026-0929-COPERNICUS-02",
+    "source_id": "SRC-ESA-COPERNICUS-S2",
+    "source_record_id": "S2B_MSIL2A_20260929T024849_N0500_R132_T49MCV_20260929T061412",
+    "retrieved_at": "2026-09-29T10:30:15.820Z",
+    "published_at": "2026-09-29T06:14:12.000Z",
+    "source_url": "https://catalogue.dataspace.copernicus.eu/stac/collections/SENTINEL-2/items/S2B_MSIL2A_20260929T024849_N0500_R132_T49MCV_20260929T061412",
+    "raw_reference": "sha256:5b8c9d01e23f4a56b78c9012d34e56f7a8b9c012e34f56a7b8c9d012e34f56a7",
+    "http_status": 200,
+    "records_count": 1,
+    "hash_sha256": "5b8c9d01e23f4a56b78c9012d34e56f7a8b9c012e34f56a7b8c9d012e34f56a7"
+  },
+  {
+    "provenance_id": "PRV-2026-0930-BMKG-03",
+    "source_id": "SRC-BMKG-STASIUN-SUSILO",
+    "source_record_id": "BMKG_WIOO_SYNOP_20260930_0300UTC",
+    "retrieved_at": "2026-09-30T04:02:11.450Z",
+    "published_at": "2026-09-30T03:00:00.000Z",
+    "source_url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm2=61.05",
+    "raw_reference": "sha256:1a2b3c4d5e6f708192a3b4c5d6e7f8091a2b3c4d5e6f708192a3b4c5d6e7f809",
+    "http_status": 200,
+    "records_count": 24,
+    "hash_sha256": "1a2b3c4d5e6f708192a3b4c5d6e7f8091a2b3c4d5e6f708192a3b4c5d6e7f809"
+  },
+  {
+    "provenance_id": "PRV-2026-0930-ANTARA-04",
+    "source_id": "SRC-LKBN-ANTARA-KALBAR",
+    "source_record_id": "ANTARA_KALBAR_NEWS_20260930_BPBD_SINTANG_SIAGA",
+    "retrieved_at": "2026-09-30T03:50:00.000Z",
+    "published_at": "2026-09-30T02:15:00.000Z",
+    "source_url": "https://kalbar.antaranews.com/berita/bpbd-sintang-imbau-waspada-karhutla-ambalau-serawai",
+    "raw_reference": "sha256:9f8e7d6c5b4a3928170e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c",
+    "http_status": 200,
+    "records_count": 1,
+    "hash_sha256": "9f8e7d6c5b4a3928170e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c"
+  },
+  {
+    "provenance_id": "PRV-2026-0928-JDIH-05",
+    "source_id": "SRC-JDIH-KAB-SINTANG",
+    "source_record_id": "JDIH_PERBUP_SINTANG_NO_42_2024_MPA",
+    "retrieved_at": "2026-09-28T09:12:00.000Z",
+    "published_at": "2024-07-15T00:00:00.000Z",
+    "source_url": "https://jdih.sintang.go.id/produk-hukum/peraturan-bupati/perbup-no-42-tahun-2024",
+    "raw_reference": "sha256:3c2b1a0f9e8d7c6b5a493827160e1d2c3b4a5f6e7d8c9b0a1f2e3d4c5b6a7f8e",
+    "http_status": 200,
+    "records_count": 1,
+    "hash_sha256": "3c2b1a0f9e8d7c6b5a493827160e1d2c3b4a5f6e7d8c9b0a1f2e3d4c5b6a7f8e"
+  },
+  {
+    "provenance_id": "PRV-2026-0929-OSM-06",
+    "source_id": "SRC-OSM-GEOFABRIK-KALBAR",
+    "source_record_id": "OSM_GEOFABRIK_KALIMANTAN_LATEST_ROADS_RIVERS",
+    "retrieved_at": "2026-09-29T18:15:00.000Z",
+    "published_at": "2026-09-29T00:00:00.000Z",
+    "source_url": "https://download.geofabrik.de/asia/indonesia/kalimantan-latest-free.shp.zip",
+    "raw_reference": "sha256:4d5e6f7a8b9c0123456789abcdef0123456789abcdef0123456789abcdef0123",
+    "http_status": 200,
+    "records_count": 1845,
+    "hash_sha256": "4d5e6f7a8b9c0123456789abcdef0123456789abcdef0123456789abcdef0123"
+  }
+]

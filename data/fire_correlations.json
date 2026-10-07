@@ -1,0 +1,15 @@
+[
+  {
+    "correlation_id": "CORR-FE-STG-2026-003-LCE-2026-02-DXSC",
+    "fire_event_id": "FE-STG-2026-003",
+    "land_change_event_id": "LCE-2026-02-DXSC",
+    "spatial_relationship": "OVERLAPPING",
+    "distance_meters": 205,
+    "temporal_relationship": "CHANGE_PRECEDED_FIRE",
+    "time_difference_days": 1.1,
+    "correlation_score": 97,
+    "method": "Spatiotemporal Intersection & Buffer Proximity Analysis",
+    "causality_caveat": "Potential spatial correlation: Identifies co-location and temporal proximity between thermal anomaly and canopy loss. Does not establish legal or causal proof of land clearing.",
+    "created_at": "2026-10-07T12:27:17.394Z"
+  }
+]

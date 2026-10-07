@@ -1,0 +1,32 @@
+[
+  {
+    "detection_id": "GOLDEN-FIRE-VIIRS-001",
+    "latitude": -0.12477,
+    "longitude": 112.56317,
+    "brightness_kelvin": 356.2,
+    "frp_mw": 44.2,
+    "confidence": "HIGH",
+    "acquired_date": "2026-09-29T05:42:00.000Z",
+    "satellite": "Suomi NPP",
+    "instrument": "VIIRS",
+    "source_id": "SRC-NASA-FIRMS-VIIRS",
+    "expected_kecamatan": "Ambalau",
+    "expected_zone": "Hutan Lindung (HL)",
+    "expected_cluster_eligible": true
+  },
+  {
+    "detection_id": "GOLDEN-FIRE-VIIRS-002",
+    "latitude": -0.4541,
+    "longitude": 112.38335,
+    "brightness_kelvin": 349.8,
+    "frp_mw": 38.5,
+    "confidence": "HIGH",
+    "acquired_date": "2026-09-29T06:15:00.000Z",
+    "satellite": "NOAA-20",
+    "instrument": "VIIRS",
+    "source_id": "SRC-NASA-FIRMS-VIIRS",
+    "expected_kecamatan": "Serawai",
+    "expected_zone": "Hutan Produksi Terbatas (HPT)",
+    "expected_cluster_eligible": true
+  }
+]

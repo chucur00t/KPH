@@ -1,0 +1,482 @@
+[
+  {
+    "event_id": "EVT-5031B78DD110",
+    "event_code": "OSINT-EVT-SINTANG-26-001",
+    "primary_record_id": "REC-ANTARA-2026-001",
+    "activity_type": "FIRE_INCIDENT_REPORTED",
+    "title": "BPBD Sintang Tingkatkan Patroli Terpadu Cegah Karhutla di Wilayah Ketungau Tengah dan Hulu",
+    "summary": "BPBD Sintang dan Manggala Agni Daops Sintang melakukan patroli terpadu mitigasi karhutla di Ketungau Tengah dan Ketungau Hulu seiring meningkatnya suhu permukaan lahan.",
+    "taxonomic_stage": "REPORTED",
+    "kabupaten": "Kabupaten Sintang",
+    "kecamatan": "Sintang",
+    "forest_zone": "Areal Penggunaan Lain (APL)",
+    "geocoding_precision": "KECAMATAN",
+    "latitude": 0.071,
+    "longitude": 111.492,
+    "occurred_at": "2026-09-29T10:15:00.000Z",
+    "published_at": "2026-09-29T10:15:00.000Z",
+    "source_count": 1,
+    "confidence_score": 88,
+    "is_spatial_correlated": true,
+    "entities": [
+      {
+        "entity_id": "ENT-0A2754B939",
+        "record_id": "REC-ANTARA-2026-001",
+        "entity_name": "Sintang",
+        "entity_type": "LOCATION",
+        "normalized_name": "sintang",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Sintang"
+      },
+      {
+        "entity_id": "ENT-6AF6D1CFC1",
+        "record_id": "REC-ANTARA-2026-001",
+        "entity_name": "Ketungau Tengah",
+        "entity_type": "LOCATION",
+        "normalized_name": "ketungau tengah",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Ketungau Tengah"
+      },
+      {
+        "entity_id": "ENT-31E55C1CA2",
+        "record_id": "REC-ANTARA-2026-001",
+        "entity_name": "Ketungau Hulu",
+        "entity_type": "LOCATION",
+        "normalized_name": "ketungau hulu",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Ketungau Hulu"
+      },
+      {
+        "entity_id": "ENT-E0B639CBA0",
+        "record_id": "REC-ANTARA-2026-001",
+        "entity_name": "UPT KPH Sintang Timur",
+        "entity_type": "AGENCY",
+        "normalized_name": "upt kph sintang timur",
+        "confidence": "HIGH",
+        "context_sentence": "Instansi atau lembaga pengampu terdeteksi: UPT KPH Sintang Timur"
+      },
+      {
+        "entity_id": "ENT-1FA3C27E5A",
+        "record_id": "REC-ANTARA-2026-001",
+        "entity_name": "BPBD Kabupaten Sintang",
+        "entity_type": "AGENCY",
+        "normalized_name": "bpbd kabupaten sintang",
+        "confidence": "HIGH",
+        "context_sentence": "Instansi atau lembaga pengampu terdeteksi: BPBD Kabupaten Sintang"
+      },
+      {
+        "entity_id": "ENT-3534B9A71E",
+        "record_id": "REC-ANTARA-2026-001",
+        "entity_name": "Manggala Agni Daops Sintang",
+        "entity_type": "AGENCY",
+        "normalized_name": "manggala agni daops sintang",
+        "confidence": "HIGH",
+        "context_sentence": "Instansi atau lembaga pengampu terdeteksi: Manggala Agni Daops Sintang"
+      }
+    ],
+    "created_at": "2026-10-07T12:27:19.497Z",
+    "updated_at": "2026-10-07T12:27:19.497Z",
+    "correlations": [
+      {
+        "correlation_id": "CORR-GIS-8E630765AC",
+        "osint_event_id": "EVT-5031B78DD110",
+        "target_module": "GIS_FOREST_ZONE",
+        "target_id": "ZONE-SINTANG",
+        "correlation_type": "JURISDICTION_INTERSECT",
+        "distance_meters": 0,
+        "time_delta_hours": null,
+        "confidence_score": 82,
+        "correlation_summary": "Wilayah administrasi Sintang berada dalam yurisdiksi pengawasan KPH Sintang Timur (Fungsi Kawasan: Areal Penggunaan Lain (APL)).",
+        "created_at": "2026-10-07T12:27:19.497Z"
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-073F0F7C22E5",
+    "event_code": "OSINT-EVT-SINTANG-26-002",
+    "primary_record_id": "REC-PEMKAB-2026-002",
+    "activity_type": "LAND_CLEARING_REPORTED",
+    "title": "Sosialisasi Perbup Sintang No. 42 Terkait Tata Cara Pembukaan Lahan Berbasis Kearifan Lokal di Sepauk",
+    "summary": "Sosialisasi implementasi Perbup Sintang No. 42 mengenai pembukaan lahan terkendali perladangan giliran dengan sekat bakar di Kecamatan Sepauk.",
+    "taxonomic_stage": "REPORTED",
+    "kabupaten": "Kabupaten Sintang",
+    "kecamatan": "Sintang",
+    "forest_zone": "Areal Penggunaan Lain (APL)",
+    "geocoding_precision": "KECAMATAN",
+    "latitude": 0.071,
+    "longitude": 111.492,
+    "occurred_at": "2026-09-28T08:30:00.000Z",
+    "published_at": "2026-09-28T08:30:00.000Z",
+    "source_count": 1,
+    "confidence_score": 74,
+    "is_spatial_correlated": true,
+    "entities": [
+      {
+        "entity_id": "ENT-D94E5573D6",
+        "record_id": "REC-PEMKAB-2026-002",
+        "entity_name": "Sintang",
+        "entity_type": "LOCATION",
+        "normalized_name": "sintang",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Sintang"
+      },
+      {
+        "entity_id": "ENT-2412858171",
+        "record_id": "REC-PEMKAB-2026-002",
+        "entity_name": "Sepauk",
+        "entity_type": "LOCATION",
+        "normalized_name": "sepauk",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Sepauk"
+      },
+      {
+        "entity_id": "ENT-8E1BE9D134",
+        "record_id": "REC-PEMKAB-2026-002",
+        "entity_name": "Dinas LHK Provinsi Kalimantan Barat",
+        "entity_type": "AGENCY",
+        "normalized_name": "dinas lhk provinsi kalimantan barat",
+        "confidence": "HIGH",
+        "context_sentence": "Instansi atau lembaga pengampu terdeteksi: Dinas LHK Provinsi Kalimantan Barat"
+      },
+      {
+        "entity_id": "ENT-CA9C213D6E",
+        "record_id": "REC-PEMKAB-2026-002",
+        "entity_name": "Pemerintah Kabupaten Sintang",
+        "entity_type": "AGENCY",
+        "normalized_name": "pemerintah kabupaten sintang",
+        "confidence": "HIGH",
+        "context_sentence": "Instansi atau lembaga pengampu terdeteksi: Pemerintah Kabupaten Sintang"
+      },
+      {
+        "entity_id": "ENT-C50F981EB1",
+        "record_id": "REC-PEMKAB-2026-002",
+        "entity_name": "Kelapa Sawit (Elaeis guineensis)",
+        "entity_type": "COMMODITY",
+        "normalized_name": "kelapa sawit (elaeis guineensis)",
+        "confidence": "MEDIUM",
+        "context_sentence": "Sosialisasi Perbup Sintang No. 42 Terkait Tata Cara Pembukaan Lahan Berbasis Kearifan Lokal di Sepauk Pemerintah Kabupaten Sintang melalui Dinas Lingk"
+      }
+    ],
+    "created_at": "2026-10-07T12:27:19.499Z",
+    "updated_at": "2026-10-07T12:27:19.499Z",
+    "correlations": [
+      {
+        "correlation_id": "CORR-GIS-30F117D008",
+        "osint_event_id": "EVT-073F0F7C22E5",
+        "target_module": "GIS_FOREST_ZONE",
+        "target_id": "ZONE-SINTANG",
+        "correlation_type": "JURISDICTION_INTERSECT",
+        "distance_meters": 0,
+        "time_delta_hours": null,
+        "confidence_score": 82,
+        "correlation_summary": "Wilayah administrasi Sintang berada dalam yurisdiksi pengawasan KPH Sintang Timur (Fungsi Kawasan: Areal Penggunaan Lain (APL)).",
+        "created_at": "2026-10-07T12:27:19.499Z"
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-66F9B18DD6EF",
+    "event_code": "OSINT-EVT-KAYANHILIR-26-003",
+    "primary_record_id": "REC-ANTARA-2026-003",
+    "activity_type": "LAND_CLEARING_REPORTED",
+    "title": "Balai Gakkum LHK dan Dishut Perketat Pengawasan Lalu Lintas Kayu Olahan di Sungai Kayan Sintang",
+    "summary": "Balai Gakkum LHK Kalimantan dan Dishut Kalbar memeriksa kepatuhan dokumen legalitas SKSHH angkutan kayu olahan di sepanjang perairan Sungai Kayan, Kayan Hilir.",
+    "taxonomic_stage": "REPORTED",
+    "kabupaten": "Kabupaten Sintang",
+    "kecamatan": "Kayan Hilir",
+    "forest_zone": "Hutan Produksi Tetap (HP)",
+    "geocoding_precision": "KECAMATAN",
+    "latitude": -0.052,
+    "longitude": 112.083,
+    "occurred_at": "2026-09-27T13:40:00.000Z",
+    "published_at": "2026-09-27T13:40:00.000Z",
+    "source_count": 1,
+    "confidence_score": 74,
+    "is_spatial_correlated": true,
+    "entities": [
+      {
+        "entity_id": "ENT-B1610764B8",
+        "record_id": "REC-ANTARA-2026-003",
+        "entity_name": "Kayan Hilir",
+        "entity_type": "LOCATION",
+        "normalized_name": "kayan hilir",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Kayan Hilir"
+      },
+      {
+        "entity_id": "ENT-A5E0D61F50",
+        "record_id": "REC-ANTARA-2026-003",
+        "entity_name": "Sintang",
+        "entity_type": "LOCATION",
+        "normalized_name": "sintang",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Sintang"
+      },
+      {
+        "entity_id": "ENT-A19B6902C5",
+        "record_id": "REC-ANTARA-2026-003",
+        "entity_name": "Sungai Kayan",
+        "entity_type": "LOCATION",
+        "normalized_name": "sungai kayan",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Sungai Kayan"
+      },
+      {
+        "entity_id": "ENT-C7CDE84A6A",
+        "record_id": "REC-ANTARA-2026-003",
+        "entity_name": "Balai Penegakan Hukum LHK Kalimantan",
+        "entity_type": "AGENCY",
+        "normalized_name": "balai penegakan hukum lhk kalimantan",
+        "confidence": "HIGH",
+        "context_sentence": "Instansi atau lembaga pengampu terdeteksi: Balai Penegakan Hukum LHK Kalimantan"
+      },
+      {
+        "entity_id": "ENT-088AAFD62D",
+        "record_id": "REC-ANTARA-2026-003",
+        "entity_name": "Kayu Bulat / Kayu Olahan",
+        "entity_type": "COMMODITY",
+        "normalized_name": "kayu bulat / kayu olahan",
+        "confidence": "MEDIUM",
+        "context_sentence": "Balai Gakkum LHK dan Dishut Perketat Pengawasan Lalu Lintas Kayu Olahan di Sungai Kayan Sintang Aparat gabungan dari Balai Gakkum LHK Wilayah Kalimant"
+      }
+    ],
+    "created_at": "2026-10-07T12:27:19.499Z",
+    "updated_at": "2026-10-07T12:27:19.499Z",
+    "correlations": [
+      {
+        "correlation_id": "CORR-GIS-E476B6D1A5",
+        "osint_event_id": "EVT-66F9B18DD6EF",
+        "target_module": "GIS_FOREST_ZONE",
+        "target_id": "ZONE-KAYAN HILIR",
+        "correlation_type": "JURISDICTION_INTERSECT",
+        "distance_meters": 0,
+        "time_delta_hours": null,
+        "confidence_score": 82,
+        "correlation_summary": "Wilayah administrasi Kayan Hilir berada dalam yurisdiksi pengawasan KPH Sintang Timur (Fungsi Kawasan: Hutan Produksi Tetap (HP)).",
+        "created_at": "2026-10-07T12:27:19.499Z"
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-747F866D7E00",
+    "event_code": "OSINT-EVT-AMBALAU-26-004",
+    "primary_record_id": "REC-PEMKAB-2026-004",
+    "activity_type": "REGULATION_PERMIT_ISSUED",
+    "title": "KPH Sintang Timur Fasilitasi Verifikasi Usulan Hutan Desa dan Hutan Adat Seluas 2.400 Ha di Ambalau",
+    "summary": "UPT KPH Sintang Timur memverifikasi peta partisipatif permohonan Hutan Desa dan Hutan Adat 2.400 Ha di zona penyangga Hutan Lindung Kecamatan Ambalau.",
+    "taxonomic_stage": "REPORTED",
+    "kabupaten": "Kabupaten Sintang",
+    "kecamatan": "Ambalau",
+    "forest_zone": "Hutan Lindung (HL)",
+    "geocoding_precision": "KECAMATAN",
+    "latitude": -0.712,
+    "longitude": 112.981,
+    "occurred_at": "2026-09-26T07:15:00.000Z",
+    "published_at": "2026-09-26T07:15:00.000Z",
+    "source_count": 1,
+    "confidence_score": 88,
+    "is_spatial_correlated": true,
+    "entities": [
+      {
+        "entity_id": "ENT-F764C56311",
+        "record_id": "REC-PEMKAB-2026-004",
+        "entity_name": "Ambalau",
+        "entity_type": "LOCATION",
+        "normalized_name": "ambalau",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Ambalau"
+      },
+      {
+        "entity_id": "ENT-4FDF606C6D",
+        "record_id": "REC-PEMKAB-2026-004",
+        "entity_name": "Sintang",
+        "entity_type": "LOCATION",
+        "normalized_name": "sintang",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Sintang"
+      },
+      {
+        "entity_id": "ENT-4FA0318555",
+        "record_id": "REC-PEMKAB-2026-004",
+        "entity_name": "UPT KPH Sintang Timur",
+        "entity_type": "AGENCY",
+        "normalized_name": "upt kph sintang timur",
+        "confidence": "HIGH",
+        "context_sentence": "Instansi atau lembaga pengampu terdeteksi: UPT KPH Sintang Timur"
+      },
+      {
+        "entity_id": "ENT-5C9B2D2474",
+        "record_id": "REC-PEMKAB-2026-004",
+        "entity_name": "SK Skema Perhutanan Sosial",
+        "entity_type": "LEGAL_REGULATION",
+        "normalized_name": "sk skema perhutanan sosial",
+        "confidence": "HIGH",
+        "context_sentence": "KPH Sintang Timur Fasilitasi Verifikasi Usulan Hutan Desa dan Hutan Adat Seluas 2.400 Ha di Ambalau UPT KPH Sintang Timur memfasilitasi verifikasi tek"
+      }
+    ],
+    "created_at": "2026-10-07T12:27:19.500Z",
+    "updated_at": "2026-10-07T12:27:19.500Z",
+    "correlations": [
+      {
+        "correlation_id": "CORR-GIS-03D9C2D5C4",
+        "osint_event_id": "EVT-747F866D7E00",
+        "target_module": "GIS_FOREST_ZONE",
+        "target_id": "ZONE-AMBALAU",
+        "correlation_type": "JURISDICTION_INTERSECT",
+        "distance_meters": 0,
+        "time_delta_hours": null,
+        "confidence_score": 82,
+        "correlation_summary": "Wilayah administrasi Ambalau berada dalam yurisdiksi pengawasan KPH Sintang Timur (Fungsi Kawasan: Hutan Lindung (HL)).",
+        "created_at": "2026-10-07T12:27:19.500Z"
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-08E7FF1EC061",
+    "event_code": "OSINT-EVT-SINTANG-26-005",
+    "primary_record_id": "REC-JDIH-2026-005",
+    "activity_type": "FIRE_INCIDENT_REPORTED",
+    "title": "Keputusan Bupati Sintang Penetapan Status Siaga Darurat Penanganan Bencana Karhutla Tahun 2026",
+    "summary": "Penerbitan Keputusan Bupati Sintang mengenai Status Siaga Darurat Karhutla 2026 dengan aktivasi posko koordinasi di 14 kecamatan.",
+    "taxonomic_stage": "REPORTED",
+    "kabupaten": "Kabupaten Sintang",
+    "kecamatan": "Sintang",
+    "forest_zone": "Areal Penggunaan Lain (APL)",
+    "geocoding_precision": "KECAMATAN",
+    "latitude": 0.071,
+    "longitude": 111.492,
+    "occurred_at": "2026-09-24T09:00:00.000Z",
+    "published_at": "2026-09-24T09:00:00.000Z",
+    "source_count": 1,
+    "confidence_score": 88,
+    "is_spatial_correlated": true,
+    "entities": [
+      {
+        "entity_id": "ENT-B2A13DF687",
+        "record_id": "REC-JDIH-2026-005",
+        "entity_name": "Sintang",
+        "entity_type": "LOCATION",
+        "normalized_name": "sintang",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Sintang"
+      },
+      {
+        "entity_id": "ENT-31106CF3BA",
+        "record_id": "REC-JDIH-2026-005",
+        "entity_name": "UPT KPH Sintang Timur",
+        "entity_type": "AGENCY",
+        "normalized_name": "upt kph sintang timur",
+        "confidence": "HIGH",
+        "context_sentence": "Instansi atau lembaga pengampu terdeteksi: UPT KPH Sintang Timur"
+      },
+      {
+        "entity_id": "ENT-023C41DF66",
+        "record_id": "REC-JDIH-2026-005",
+        "entity_name": "Kayu Bulat / Kayu Olahan",
+        "entity_type": "COMMODITY",
+        "normalized_name": "kayu bulat / kayu olahan",
+        "confidence": "MEDIUM",
+        "context_sentence": "Keputusan Bupati Sintang Penetapan Status Siaga Darurat Penanganan Bencana Karhutla Tahun 2026 Menimbang kondisi hidrometeorologi dan peringatan dini "
+      }
+    ],
+    "created_at": "2026-10-07T12:27:19.500Z",
+    "updated_at": "2026-10-07T12:27:19.500Z",
+    "correlations": [
+      {
+        "correlation_id": "CORR-GIS-915C947DC2",
+        "osint_event_id": "EVT-08E7FF1EC061",
+        "target_module": "GIS_FOREST_ZONE",
+        "target_id": "ZONE-SINTANG",
+        "correlation_type": "JURISDICTION_INTERSECT",
+        "distance_meters": 0,
+        "time_delta_hours": null,
+        "confidence_score": 82,
+        "correlation_summary": "Wilayah administrasi Sintang berada dalam yurisdiksi pengawasan KPH Sintang Timur (Fungsi Kawasan: Areal Penggunaan Lain (APL)).",
+        "created_at": "2026-10-07T12:27:19.500Z"
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-AFF4F320F69D",
+    "event_code": "OSINT-EVT-SINTANG-26-006",
+    "primary_record_id": "REC-BALITBANG-2026-006",
+    "activity_type": "LAND_CLEARING_REPORTED",
+    "title": "Kajian Daya Dukung Lingkungan dan Kerapatan Kanopi Hutan DAS Melawi-Ketungau Sintang",
+    "summary": "Publikasi hasil penelitian spasial indeks vegetasi kanopi sub-DAS Melawi dan Ketungau Hulu untuk proteksi koridor sempadan sungai.",
+    "taxonomic_stage": "REPORTED",
+    "kabupaten": "Kabupaten Sintang",
+    "kecamatan": "Sintang",
+    "forest_zone": "Areal Penggunaan Lain (APL)",
+    "geocoding_precision": "KECAMATAN",
+    "latitude": 0.071,
+    "longitude": 111.492,
+    "occurred_at": "2026-09-20T11:00:00.000Z",
+    "published_at": "2026-09-20T11:00:00.000Z",
+    "source_count": 1,
+    "confidence_score": 74,
+    "is_spatial_correlated": true,
+    "entities": [
+      {
+        "entity_id": "ENT-31BEA19B7D",
+        "record_id": "REC-BALITBANG-2026-006",
+        "entity_name": "Sintang",
+        "entity_type": "LOCATION",
+        "normalized_name": "sintang",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Sintang"
+      },
+      {
+        "entity_id": "ENT-2AD6C77755",
+        "record_id": "REC-BALITBANG-2026-006",
+        "entity_name": "Ketungau Hulu",
+        "entity_type": "LOCATION",
+        "normalized_name": "ketungau hulu",
+        "confidence": "HIGH",
+        "context_sentence": "Lokasi teridentifikasi dalam wilayah Kabupaten Sintang: Ketungau Hulu"
+      },
+      {
+        "entity_id": "ENT-64085D1717",
+        "record_id": "REC-BALITBANG-2026-006",
+        "entity_name": "Universitas Tanjungpura",
+        "entity_type": "AGENCY",
+        "normalized_name": "universitas tanjungpura",
+        "confidence": "HIGH",
+        "context_sentence": "Instansi atau lembaga pengampu terdeteksi: Universitas Tanjungpura"
+      },
+      {
+        "entity_id": "ENT-C43D055007",
+        "record_id": "REC-BALITBANG-2026-006",
+        "entity_name": "Kelapa Sawit (Elaeis guineensis)",
+        "entity_type": "COMMODITY",
+        "normalized_name": "kelapa sawit (elaeis guineensis)",
+        "confidence": "MEDIUM",
+        "context_sentence": "Kajian Daya Dukung Lingkungan dan Kerapatan Kanopi Hutan DAS Melawi-Ketungau Sintang Publikasi ilmiah kolaborasi Universitas Tanjungpura dan Balitbang"
+      },
+      {
+        "entity_id": "ENT-7EAFC839BB",
+        "record_id": "REC-BALITBANG-2026-006",
+        "entity_name": "Kayu Bulat / Kayu Olahan",
+        "entity_type": "COMMODITY",
+        "normalized_name": "kayu bulat / kayu olahan",
+        "confidence": "MEDIUM",
+        "context_sentence": "Kajian Daya Dukung Lingkungan dan Kerapatan Kanopi Hutan DAS Melawi-Ketungau Sintang Publikasi ilmiah kolaborasi Universitas Tanjungpura dan Balitbang"
+      }
+    ],
+    "created_at": "2026-10-07T12:27:19.500Z",
+    "updated_at": "2026-10-07T12:27:19.500Z",
+    "correlations": [
+      {
+        "correlation_id": "CORR-GIS-3FAF4A0F8F",
+        "osint_event_id": "EVT-AFF4F320F69D",
+        "target_module": "GIS_FOREST_ZONE",
+        "target_id": "ZONE-SINTANG",
+        "correlation_type": "JURISDICTION_INTERSECT",
+        "distance_meters": 0,
+        "time_delta_hours": null,
+        "confidence_score": 82,
+        "correlation_summary": "Wilayah administrasi Sintang berada dalam yurisdiksi pengawasan KPH Sintang Timur (Fungsi Kawasan: Areal Penggunaan Lain (APL)).",
+        "created_at": "2026-10-07T12:27:19.500Z"
+      }
+    ]
+  }
+]
